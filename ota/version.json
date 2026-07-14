@@ -1,6 +1,6 @@
 {
-  "version": "1.5.31",
+  "version": "1.5.32",
   "bin_url": "https://raw.githubusercontent.com/eldad-levi/Ofer6_Nir_Ezion_firmware/main/ota/OFER_6_Nir_Ezion_v1.5.3.ino.bin",
-  "size": 503712,
-  "sha256": "6888390debbb670a16568e96f95ddbf264fe6cf28635c722602bf536691eb38a"
+  "size": 504288,
+  "sha256": "963189f7b5e3bd5743f84d2c6bd6bcb0d45c7044ec2e38d57c9820fca3908742"
 }
